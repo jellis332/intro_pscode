@@ -1,5 +1,6 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
-
+Number guessing game. The computer chooses a random number between 1 and 10, and the player has 3 chances to guess.
+Input minimum 1
+Output maximum 10
